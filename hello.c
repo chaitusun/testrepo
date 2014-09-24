@@ -1,3 +1,4 @@
+//Prints a nice hello message
 #include <stdio.h>
 int main()
 {
